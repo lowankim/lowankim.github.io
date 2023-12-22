@@ -1,8 +1,8 @@
 ---
-title: Hello HomeLab
-date: 2023-12-21 12:00:00 -500
-categories: [homelab, hardware]
-tags: [servers, dell, hp, supermicro]
+title: "Hello World"
+date: 2023-06-03 00:00:00 +0800
+categories: [Helo World]
+tags: [Hello World]
 ---
 
 # Hello world
